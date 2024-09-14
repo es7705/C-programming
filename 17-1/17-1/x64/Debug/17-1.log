@@ -1,0 +1,3 @@
+﻿  확인문제3.c
+D:\Study\HonGong\HonGong\17-1\확인문제3.c(29,8): warning C4477: 'scanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char **'입니다.
+  17-1.vcxproj -> D:\Study\HonGong\HonGong\17-1\x64\Debug\17-1.exe

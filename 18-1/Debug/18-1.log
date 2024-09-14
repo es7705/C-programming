@@ -1,0 +1,4 @@
+﻿  18-1.c
+D:\강의자료\HonGong\HonGong\18-1\18-1.c(2,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+D:\강의자료\HonGong\HonGong\18-1\18-1.c : message : '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+  18-1.vcxproj -> D:\강의자료\HonGong\HonGong\18-1\Debug\18-1.exe

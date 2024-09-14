@@ -1,0 +1,7 @@
+﻿  도전실전예제.c
+D:\Study\HonGong\HonGong\12-2\도전실전예제.c(10,7): warning C4101: 'f' :참조되지 않은 지역 변수입니다.
+D:\Study\HonGong\HonGong\12-2\도전실전예제.c(10,14): warning C4101: 's' :참조되지 않은 지역 변수입니다.
+D:\Study\HonGong\HonGong\12-2\도전실전예제.c(10,21): warning C4101: 't' :참조되지 않은 지역 변수입니다.
+  확인문제.c
+  코드를 생성하고 있습니다...
+  12-2.vcxproj -> D:\Study\HonGong\HonGong\12-2\x64\Debug\12-2.exe

@@ -1,0 +1,4 @@
+﻿  10-5.c
+D:\Study\HonGong\HonGong\10-2\10-5.c(2,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+D:\Study\HonGong\HonGong\10-2\10-5.c : message : '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+  10-2.vcxproj -> D:\Study\HonGong\HonGong\10-2\Debug\10-2.exe
